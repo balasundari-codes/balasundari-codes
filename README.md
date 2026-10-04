@@ -47,9 +47,8 @@
 
 ## 📫 Connect With Me
 
-💼 **GitHub:** You're already here!
-📧 **Email:** Add your email here
-🔗 **LinkedIn:** Add your LinkedIn profile here
+📧 **Email:** triffi.2908@gmail.com
+🔗 **LinkedIn:** https://www.linkedin.com/in/balasundari-d-aaaa89432 
 
 ---
 
