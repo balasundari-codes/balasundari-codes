@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi there! 👋 I'm Balasundari D
 
-<!--
-**balasundari-codes/balasundari-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **First-Year B.Tech Information Technology Student**
+🏫 **St. Joseph's College of Engineering, Chennai**
+💻 Exploring the world of **Software Development, IoT & Technology**
+🚀 Learning something new and building projects along the way.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+* 🎓 Pursuing **B.Tech in Information Technology** at **St. Joseph's College of Engineering**
+* 🌱 Currently learning **C, Python, JavaScript & Web Development**
+* 💡 Interested in **IoT, Full-Stack Development and Smart Technology**
+* 🏆 Interested in participating in **Hackathons & Technical Events**
+* 🔧 I enjoy turning ideas into practical projects
+* 📚 Currently building my foundation in programming and computer science
+
+---
+
+## 🛠️ Skills & Technologies
+
+### Programming
+
+`C` `Python` `JavaScript`
+
+### Web Development
+
+`HTML` `CSS` `JavaScript`
+
+### Currently Exploring
+
+`IoT` `Full-Stack Development` `APIs` `Git & GitHub`
+
+---
+
+## 🏆 Goals
+
+* Build more real-world projects
+* Participate in hackathons
+* Improve my programming skills
+* Learn full-stack development
+* Explore IoT and emerging technologies
+* Contribute to open-source projects
+
+---
+
+## 📫 Connect With Me
+
+💼 **GitHub:** You're already here!
+📧 **Email:** Add your email here
+🔗 **LinkedIn:** Add your LinkedIn profile here
+
+---
+
+### ✨ "Learn. Build. Experiment. Repeat."
+
+Thanks for visiting my profile! 💜
